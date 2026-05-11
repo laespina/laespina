@@ -86,3 +86,4 @@ Connects any MCP client (Claude Desktop, Cursor, Continue) to Brazil's National 
 If you cover govtech, work in public-sector tech, do data journalism, or just want to build with AI applied to real Brazilian problems — reach out.
 
 📧 **alex@licinexus.com.br** · 🌐 [**licinexus.com.br**](https://licinexus.com.br) · 💼 [**LinkedIn**](https://linkedin.com/in/laespina) · 🐦 [**@licinexus**](https://x.com/licinexus)
+
