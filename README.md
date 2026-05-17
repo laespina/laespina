@@ -114,7 +114,9 @@ npx -y @licinexusbr/mcp
 - 📰 **[Critt UFJF](https://www2.ufjf.br/critt/2025/11/11/critt-e-sebrae-minas-organizam-rodada-de-negocios-com-empresas-de-juiz-de-fora/)** — *"Critt e Sebrae Minas organizam Rodada de Negócios com empresas de Juiz de Fora"* (TuriVerde)
 - 📰 **[ASN Sebrae Minas](https://mg.agenciasebrae.com.br/inovacao-e-tecnologia/startups-juiz-foranas-marcam-presenca-no-adapta-summit-2025/)** — *"Startups juiz-foranas marcam presença no Adapta Summit 2025"* (TuriVerde)
 - 📰 **[Zero40](https://zero40.com.br/startups/licitei/)** — Comunidade de Empreendedorismo Inovador
-- 🎥 **[YouTube](https://www.youtube.com/watch?v=2sU-egdmaAk)** — *"Conheça a História da Licitei com o nosso CEO Alexander La Espina"*
+- 🎙️ **[VoxLab Podcast](https://www.youtube.com/watch?v=HnGbFidWO4g)** — interview
+- 🎙️ **[Além do Mais Podcast](https://www.youtube.com/watch?v=22FVWz5ui3I)** — interview
+- 🎥 **[YouTube — Licitei](https://www.youtube.com/watch?v=2sU-egdmaAk)** — *"Conheça a História da Licitei com o nosso CEO Alexander La Espina"*
 - 📰 Diário do Comércio · Economia SC · Critt UFJF Startup Summit 2023
 
 ---
