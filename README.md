@@ -116,7 +116,6 @@ npx -y @licinexusbr/mcp
 - 📰 **[Zero40](https://zero40.com.br/startups/licitei/)** — Comunidade de Empreendedorismo Inovador
 - 🎙️ **[VoxLab Podcast](https://www.youtube.com/watch?v=HnGbFidWO4g)** — interview
 - 🎙️ **[Além do Mais Podcast](https://www.youtube.com/watch?v=22FVWz5ui3I)** — interview
-- 🎥 **[YouTube — Licitei](https://www.youtube.com/watch?v=2sU-egdmaAk)** — *"Conheça a História da Licitei com o nosso CEO Alexander La Espina"*
 - 📰 Diário do Comércio · Economia SC · Critt UFJF Startup Summit 2023
 
 ---
@@ -135,6 +134,6 @@ Joel Spolsky called it *commoditizing your complement*. Worked for IBM with Linu
 
 If you cover govtech, work in public-sector technology, do data journalism, are an investor in B2B AI for emerging markets, or want to build with AI applied to real Brazilian problems — reach out.
 
-**[alex@licinexus.com.br](mailto:alex@licinexus.com.br)** · [licinexus.com.br](https://licinexus.com.br) · [LinkedIn](https://linkedin.com/in/laespina) · [@licinexus](https://x.com/licinexus) · [YouTube](https://www.youtube.com/@licitei)
+**[alex@licinexus.com.br](mailto:alex@licinexus.com.br)** · [licinexus.com.br](https://licinexus.com.br) · [LinkedIn](https://linkedin.com/in/laespina) · [@licinexus](https://x.com/licinexus)
 
 <sub>📍 Juiz de Fora, MG · 🌍 Multilingual: PT 🇧🇷 · EN 🇺🇸 · NL 🇳🇱 (moved to the Netherlands at age 12, lived there into adulthood)</sub>
