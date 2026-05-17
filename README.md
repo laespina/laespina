@@ -6,7 +6,7 @@
 **Juiz de Fora, MG 🇧🇷 · multilingual 🇧🇷 🇺🇸 🇳🇱**
 
 Building [**Licinexus**](https://licinexus.com.br) — proprietary AI for Brazilian public procurement.
-Founder of [**LLMwiz**](https://licinexus.com.br) and [**TuriVerde**](https://www.linkedin.com/in/laespina/).
+Founder of [**LLMwiz**](https://llmwizz.com) and [**TuriVerde**](https://turiverde.com.br).
 Previously sold [**Licitei**](https://foundersclub.com.br/cases/licitei-e-founders-club/) for **R$ 6,25M**, 5 months after MVP.
 
 <br/>
@@ -14,7 +14,6 @@ Previously sold [**Licitei**](https://foundersclub.com.br/cases/licitei-e-founde
 <a href="https://licinexus.com.br"><img alt="Website" src="https://img.shields.io/badge/licinexus.com.br-050816?style=for-the-badge&logo=googlechrome&logoColor=00d4ff" /></a>
 <a href="https://linkedin.com/in/laespina"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/licinexus"><img alt="X" src="https://img.shields.io/badge/@licinexus-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.youtube.com/watch?v=2sU-egdmaAk"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="mailto:alex@licinexus.com.br"><img alt="Email" src="https://img.shields.io/badge/alex@licinexus.com.br-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -27,11 +26,11 @@ I build proprietary AI for a market most engineers ignore: **R$ 1,5 trillion/yea
 
 **Now**
 - 🏗 Founder & CEO of [**Licinexus**](https://licinexus.com.br) — building 7 proprietary AI models (Catálogo, Previsor, Auditor, Leitor, Reader-Full, OCR, STT) on top of open public data, with a free permanent tier. Open-sourcing what's commodity, keeping intelligence proprietary.
-- 🧪 Founder of [**LLMwiz**](https://licinexus.com.br) — applied LLM tooling lab.
+- 🧪 Founder of [**LLMwiz**](https://llmwizz.com) — applied LLM tooling lab.
 
 **Then**
 - 💼 Founder of [**Licitei**](https://foundersclub.com.br/cases/licitei-e-founders-club/) — exit at **R$ 6,25M** only 5 months post-MVP, with 2k users and R$ 15k MRR. Pre-exit raised **R$ 3,5M** led by Thompson Participações. Backed by **Microsoft for Startups Founders Hub** and **TecHolding**. Incubated at [**Critt UFJF**](https://www2.ufjf.br/critt/) (Incubadora de Base Tecnológica).
-- 🌱 Founder of [**TuriVerde**](https://www.linkedin.com/in/laespina/) — sustainable tourism platform unifying the travel chain (travelers, agencies, accommodations, transport). Also incubated at [**Critt UFJF**](https://www2.ufjf.br/critt/) (second incubation, after Licitei) and selected for [**Adapta Summit 2025**](https://mg.agenciasebrae.com.br/inovacao-e-tecnologia/startups-juiz-foranas-marcam-presenca-no-adapta-summit-2025/) (Sebrae Minas × Critt).
+- 🌱 Founder of [**TuriVerde**](https://turiverde.com.br) — sustainable tourism platform unifying the travel chain (travelers, agencies, accommodations, transport). Also incubated at [**Critt UFJF**](https://www2.ufjf.br/critt/) (second incubation, after Licitei) and selected for [**Adapta Summit 2025**](https://mg.agenciasebrae.com.br/inovacao-e-tecnologia/startups-juiz-foranas-marcam-presenca-no-adapta-summit-2025/) (Sebrae Minas × Critt).
 
 **Recognition**
 - 🏆 **TOP 10 Startup Awards 2024**
