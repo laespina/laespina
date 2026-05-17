@@ -102,7 +102,8 @@ npx -y @licinexusbr/mcp
 
 ### 📰 In the press
 
-- 📺 **MGTV / Rede Globo** — open broadcast TV interview
+- 📺 **[MGTV / Rede Globo](https://globoplay.globo.com/v/12019826/)** — open broadcast TV interview (1)
+- 📺 **[MGTV / Rede Globo](https://globoplay.globo.com/v/12488467/)** — open broadcast TV interview (2)
 - 📰 **[Founders Club](https://foundersclub.com.br/cases/licitei-e-founders-club/)** — *"Licitei faz exit 5 meses após MVP com apoio do Founders Club"*
 - 📰 **[Startupi](https://startupi.com.br/licitei-recebe-aporte-de-r35-milhoes/)** — *"Licitei, que simplifica licitações para PMEs, recebe aporte de R$ 3,5 milhões"*
 - 📰 **[UFJF — Notícias](https://www2.ufjf.br/noticias/2024/02/19/startup-lanca-sistema-gratuito-com-ia-para-agilizar-licitacoes-publicas/)** — *"Startup lança sistema gratuito com IA para agilizar licitações públicas"*
