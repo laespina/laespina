@@ -2,7 +2,7 @@
 
 # Alexander Martins La Espina
 
-**Serial founder · 2× exits · AI · Govtech**
+**Serial founder · AI · Govtech**
 **Juiz de Fora, MG 🇧🇷 · multilingual 🇧🇷 🇺🇸 🇳🇱**
 
 Building [**Licinexus**](https://licinexus.com.br) — proprietary AI for Brazilian public procurement.
@@ -31,7 +31,7 @@ I build proprietary AI for a market most engineers ignore: **R$ 1,5 trillion/yea
 
 **Then**
 - 💼 Founder of [**Licitei**](https://foundersclub.com.br/cases/licitei-e-founders-club/) — exit at **R$ 6,25M** only 5 months post-MVP, with 2k users and R$ 15k MRR. Pre-exit raised **R$ 3,5M** led by Thompson Participações. Backed by **Microsoft for Startups Founders Hub** and **TecHolding**. Incubated at [**Critt UFJF**](https://www2.ufjf.br/critt/) (Incubadora de Base Tecnológica).
-- 🌱 Founder of [**TuriVerde**](https://www.linkedin.com/in/laespina/) — sustainable tourism platform unifying the travel chain (travelers, agencies, accommodations, transport). Second exit. Also incubated at [**Critt UFJF**](https://www2.ufjf.br/critt/) and selected for [**Adapta Summit 2025**](https://mg.agenciasebrae.com.br/inovacao-e-tecnologia/startups-juiz-foranas-marcam-presenca-no-adapta-summit-2025/) (Sebrae Minas × Critt).
+- 🌱 Founder of [**TuriVerde**](https://www.linkedin.com/in/laespina/) — sustainable tourism platform unifying the travel chain (travelers, agencies, accommodations, transport). Also incubated at [**Critt UFJF**](https://www2.ufjf.br/critt/) (second incubation, after Licitei) and selected for [**Adapta Summit 2025**](https://mg.agenciasebrae.com.br/inovacao-e-tecnologia/startups-juiz-foranas-marcam-presenca-no-adapta-summit-2025/) (Sebrae Minas × Critt).
 
 **Recognition**
 - 🏆 **TOP 10 Startup Awards 2024**
