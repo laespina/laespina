@@ -84,17 +84,19 @@ I build proprietary AI for a market most engineers ignore: **R$ 1,5 trillion/yea
 
 ### 🤖 The Licinexus AI family
 
-Free open data + proprietary intelligence on top. The 7 models I'm shipping:
+Free open data + proprietary intelligence on top. **All 7 models are continuously retrained as new data arrives daily from PNCP, Receita Federal, TCU/TCEs and user-feedback loops** — the dataset never freezes.
 
-| Model | Trained to do | Trained on | Status |
+| Model | Trained to do | Trained on (real volumes in our DB) | Status |
 |---|---|---|---|
-| **Catálogo** | Classify any bid item into the official CATMAT/CATSER taxonomy | 848k real item → code pairs from public auctions | 🟢 PROD |
-| **Previsor** | Predict the winning price and the win probability of a bid before the auction opens | 1,48M historical bid outcomes with real winners | 🟢 PROD |
-| **OCR** | Extract clean text from bid PDFs and attachments in Brazilian Portuguese | Portuguese OCR pipeline benchmarked against 32M pages | 🟢 PROD |
-| **Leitor** | Turn any bid PDF into structured data (modality, deadlines, requirements, values, etc) | 2,16M PNCP processes with gold-standard structured fields | 🟡 BUILD |
-| **Reader-Full** | Read the full edital end-to-end and produce a complete viability analysis | Long-context training on full edital documents after OCR | 🟡 BUILD |
-| **Auditor** | Detect directional clauses, restrictive requirements and TCU jurisprudence risk | 60-80k TCU acórdãos and súmulas mapped to risk patterns | 🟡 BUILD |
-| **STT** | Transcribe internal calls (SDR, customer meetings, voice notes) in Brazilian Portuguese | Self-hosted speech model tuned for PT-BR business calls | 🟡 BUILD |
+| **Catálogo** | Classify any bid item into the official CATMAT/CATSER taxonomy | 848k curated item → code pairs · 6,49M unified price records · 4,17M historical items · continuously growing | 🟢 PROD |
+| **Previsor** | Predict the winning price and the win probability of a bid before the auction opens | 1,49M historical bid outcomes with real winners · daily PNCP refresh · user-feedback on closed bids | 🟢 PROD |
+| **OCR** | Extract clean text from bid PDFs and attachments in Brazilian Portuguese | 2,40M edital PDFs in our pipeline (410k already OCRed, growing daily) | 🟢 PROD |
+| **Leitor** | Turn any bid PDF into structured data (modality, deadlines, requirements, values, etc) | 2,18M PNCP processes with gold-standard structured fields · 1,01M contracts · 722k atas de registro de preço | 🟡 BUILD |
+| **Reader-Full** | Read the full edital end-to-end and produce a complete viability analysis | Long-context training on full edital documents after OCR (growing with the OCR pipeline) | 🟡 BUILD |
+| **Auditor** | Detect directional clauses, restrictive requirements and TCU/TCE jurisprudence risk | **10,2M legal documents**: TCU + TCEs (PE, RJ, RO, RS, SC, ES) + Súmulas STF/STJ + CGU + AGU + LexML + DJEN/CNJ + Lei 14.133/2021 + Lei 8.666/1993 + DOU decretos · continuously expanding | 🟡 BUILD |
+| **STT** | Transcribe internal calls (SDR, customer meetings, voice notes) in Brazilian Portuguese | Self-hosted speech model tuned for PT-BR business calls · feedback loop from internal usage | 🟡 BUILD |
+
+Plus a deep CNPJ graph backing all models: **65,7M companies + 26,8M shareholders** from Receita Federal · **701k curated suppliers** with bidding history.
 
 Full family → [**licinexus.com.br/ai**](https://licinexus.com.br/ai) · Org on GitHub → [**Licinexus**](https://github.com/Licinexus)
 
