@@ -2,16 +2,57 @@
 
 # Alexander Martins La Espina
 
-**Serial founder · AI · Govtech**
+**Serial founder · 3 active companies · 1 exit · AI · Govtech**
 **Juiz de Fora, MG 🇧🇷 · multilingual 🇧🇷 🇺🇸 🇳🇱**
-
-Building [**Licinexus**](https://licinexus.com.br) — proprietary AI for Brazilian public procurement.
-Founder of [**LLMwiz**](https://llmwizz.com) and [**TuriVerde**](https://turiverde.com.br).
-Previously sold [**Licitei**](https://foundersclub.com.br/cases/licitei-e-founders-club/) for **R$ 6,25M**, 5 months after MVP.
 
 <br/>
 
-<a href="https://licinexus.com.br"><img alt="Website" src="https://img.shields.io/badge/licinexus.com.br-050816?style=for-the-badge&logo=googlechrome&logoColor=00d4ff" /></a>
+### 🚀 My 3 active companies
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://licinexus.com.br">
+    <img src="https://img.shields.io/badge/LICINEXUS-2968ed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Licinexus" />
+  </a>
+  <br/><br/>
+  <b>Vertical AI for<br/>Brazilian public procurement</b>
+  <br/><br/>
+  <sub>7 proprietary AI models · open source + paid tier</sub>
+  <br/>
+  <a href="https://licinexus.com.br">licinexus.com.br</a>
+</td>
+<td align="center" width="33%">
+  <a href="https://llmwizz.com">
+    <img src="https://img.shields.io/badge/LLMWIZ-9333ea?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLMwiz" />
+  </a>
+  <br/><br/>
+  <b>Applied LLM<br/>tooling lab</b>
+  <br/><br/>
+  <sub>Production-grade infra for LLM workflows</sub>
+  <br/>
+  <a href="https://llmwizz.com">llmwizz.com</a>
+</td>
+<td align="center" width="33%">
+  <a href="https://turiverde.com.br">
+    <img src="https://img.shields.io/badge/TURIVERDE-10b981?style=for-the-badge&logo=leaflet&logoColor=white" alt="TuriVerde" />
+  </a>
+  <br/><br/>
+  <b>Sustainable tourism<br/>platform</b>
+  <br/><br/>
+  <sub>Unifies travelers, agencies, lodging, transport</sub>
+  <br/>
+  <a href="https://turiverde.com.br">turiverde.com.br</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+**Previously sold [Licitei](https://foundersclub.com.br/cases/licitei-e-founders-club/) for R$ 6,25M, 5 months after MVP.**
+
+<br/>
+
 <a href="https://linkedin.com/in/laespina"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/licinexus"><img alt="X" src="https://img.shields.io/badge/@licinexus-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:alex@licinexus.com.br"><img alt="Email" src="https://img.shields.io/badge/alex@licinexus.com.br-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -45,15 +86,15 @@ I build proprietary AI for a market most engineers ignore: **R$ 1,5 trillion/yea
 
 Free open data + proprietary intelligence on top. The 7 models I'm shipping:
 
-| Model | What it does | Status |
-|---|---|---|
-| **Catálogo** | Understands CATMAT/CATSER better than any generic LLM — bi-encoder + cross-encoder fine-tuned on 848k pairs | 🟢 PROD |
-| **Previsor** | Predicts winning price + win-probability per bid (LightGBM, quantile regression on 1.48M outcomes) | 🟢 PROD |
-| **OCR** | Tesseract pipeline at US$ 60 vs US$ 48k of Textract for 32M pages | 🟢 PROD |
-| **Leitor** | LLM that turns any bid PDF into structured JSON (60+ fields) — Qwen2.5 fine-tune | 🟡 BUILD |
-| **Reader-Full** | Full edital PDF → complete analysis (after OCR) | 🟡 BUILD |
-| **Auditor** | Detects directional clauses, restrictive requirements, TCU jurisprudence risk | 🟡 BUILD |
-| **STT** | Whisper-Large-V3 internal pipeline replacing paid third-party transcription | 🟡 BUILD |
+| Model | Trained to do | Trained on | Status |
+|---|---|---|---|
+| **Catálogo** | Classify any bid item into the official CATMAT/CATSER taxonomy | 848k real item → code pairs from public auctions | 🟢 PROD |
+| **Previsor** | Predict the winning price and the win probability of a bid before the auction opens | 1,48M historical bid outcomes with real winners | 🟢 PROD |
+| **OCR** | Extract clean text from bid PDFs and attachments in Brazilian Portuguese | Portuguese OCR pipeline benchmarked against 32M pages | 🟢 PROD |
+| **Leitor** | Turn any bid PDF into structured data (modality, deadlines, requirements, values, etc) | 2,16M PNCP processes with gold-standard structured fields | 🟡 BUILD |
+| **Reader-Full** | Read the full edital end-to-end and produce a complete viability analysis | Long-context training on full edital documents after OCR | 🟡 BUILD |
+| **Auditor** | Detect directional clauses, restrictive requirements and TCU jurisprudence risk | 60-80k TCU acórdãos and súmulas mapped to risk patterns | 🟡 BUILD |
+| **STT** | Transcribe internal calls (SDR, customer meetings, voice notes) in Brazilian Portuguese | Self-hosted speech model tuned for PT-BR business calls | 🟡 BUILD |
 
 Full family → [**licinexus.com.br/ai**](https://licinexus.com.br/ai) · Org on GitHub → [**Licinexus**](https://github.com/Licinexus)
 
