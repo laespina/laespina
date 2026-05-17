@@ -6,8 +6,8 @@
 **Juiz de Fora, MG 🇧🇷 · multilingual 🇧🇷 🇺🇸 🇳🇱**
 
 Building [**Licinexus**](https://licinexus.com.br) — proprietary AI for Brazilian public procurement.
-Founder of [**LLMwiz**](https://licinexus.com.br) · [**TuriVerde**](https://www.linkedin.com/in/laespina/) · [**PAPUM Entretenimento**](https://www.linkedin.com/in/laespina/).
-Previously sold [**Licitei**](https://foundersclub.com.br/cases/licitei-e-founders-club/) to MTEC for R$ 6,25M, 5 months after MVP.
+Founder of [**LLMwiz**](https://licinexus.com.br) and [**TuriVerde**](https://www.linkedin.com/in/laespina/).
+Previously sold [**Licitei**](https://foundersclub.com.br/cases/licitei-e-founders-club/) for **R$ 6,25M**, 5 months after MVP.
 
 <br/>
 
@@ -30,9 +30,8 @@ I build proprietary AI for a market most engineers ignore: **R$ 1,5 trillion/yea
 - 🧪 Founder of [**LLMwiz**](https://licinexus.com.br) — applied LLM tooling lab.
 
 **Then**
-- 💼 Founder of [**Licitei**](https://foundersclub.com.br/cases/licitei-e-founders-club/) — sold to **MTEC for R$ 6,25M** only 5 months post-MVP, with 2k users and R$ 15k MRR. Pre-exit raised **R$ 3,5M** led by Thompson Participações. Backed by **Microsoft for Startups Founders Hub** and **TecHolding**. Incubated at [**Critt UFJF**](https://www2.ufjf.br/critt/) (Incubadora de Base Tecnológica).
-- 🌱 Founder of [**TuriVerde**](https://www.linkedin.com/in/laespina/) — sustainable tourism platform unifying the travel chain (travelers, agencies, accommodations, transport).
-- 🎉 Founder of [**PAPUM Entretenimento**](https://www.linkedin.com/in/laespina/) — events & entertainment production.
+- 💼 Founder of [**Licitei**](https://foundersclub.com.br/cases/licitei-e-founders-club/) — exit at **R$ 6,25M** only 5 months post-MVP, with 2k users and R$ 15k MRR. Pre-exit raised **R$ 3,5M** led by Thompson Participações. Backed by **Microsoft for Startups Founders Hub** and **TecHolding**. Incubated at [**Critt UFJF**](https://www2.ufjf.br/critt/) (Incubadora de Base Tecnológica).
+- 🌱 Founder of [**TuriVerde**](https://www.linkedin.com/in/laespina/) — sustainable tourism platform unifying the travel chain (travelers, agencies, accommodations, transport). Second exit. Also incubated at [**Critt UFJF**](https://www2.ufjf.br/critt/) and selected for [**Adapta Summit 2025**](https://mg.agenciasebrae.com.br/inovacao-e-tecnologia/startups-juiz-foranas-marcam-presenca-no-adapta-summit-2025/) (Sebrae Minas × Critt).
 
 **Recognition**
 - 🏆 **TOP 10 Startup Awards 2024**
@@ -111,6 +110,8 @@ npx -y @licinexusbr/mcp
 - 📰 **[Critt UFJF](https://www2.ufjf.br/critt/2024/03/26/startup-juizforana-tem-tecnologia-destacada-no-mapa-govtech-2024-elaborado-pelo-brazillab-em-parceria-com-a-oracle/)** — *"Tecnologia destacada no Mapa GovTech 2024 (BrazilLAB × Oracle)"*
 - 📰 **[UFJF — Notícias](https://www2.ufjf.br/noticias/2024/03/25/startup-incubada-no-critt-e-destaque-em-estudo-nacional/)** — *"Startup incubada no Critt é destaque em estudo nacional"*
 - 📰 **[Acessa.com](https://www.acessa.com/economia/2023/08/167376-juiz-de-fora-e-representada-por-tres-empresas-de-solucoes-tecnologicas-na-startup-summit-2023.html)** — *"Juiz de Fora é representada por três empresas de soluções tecnológicas na Startup Summit 2023"*
+- 📰 **[Critt UFJF](https://www2.ufjf.br/critt/2025/11/11/critt-e-sebrae-minas-organizam-rodada-de-negocios-com-empresas-de-juiz-de-fora/)** — *"Critt e Sebrae Minas organizam Rodada de Negócios com empresas de Juiz de Fora"* (TuriVerde)
+- 📰 **[ASN Sebrae Minas](https://mg.agenciasebrae.com.br/inovacao-e-tecnologia/startups-juiz-foranas-marcam-presenca-no-adapta-summit-2025/)** — *"Startups juiz-foranas marcam presença no Adapta Summit 2025"* (TuriVerde)
 - 📰 **[Zero40](https://zero40.com.br/startups/licitei/)** — Comunidade de Empreendedorismo Inovador
 - 🎥 **[YouTube](https://www.youtube.com/watch?v=2sU-egdmaAk)** — *"Conheça a História da Licitei com o nosso CEO Alexander La Espina"*
 - 📰 Diário do Comércio · Economia SC · Critt UFJF Startup Summit 2023
